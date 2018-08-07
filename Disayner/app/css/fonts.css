@@ -1,0 +1,15 @@
+@font-face {
+   
+    font-family: "StRydeRegular";
+    src: url("../fonts/StRyde-Regular.otf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+    } 
+
+@font-face {
+   
+    font-family: "Sego";
+    src: url("../fonts/ofont.ru_Segoe\ WP.ttf") format("truetype"); 
+    font-style: normal; 
+    font-weight: normal; 
+    } 
